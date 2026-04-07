@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - SDKs
-  - Serialization
   - Code Generation
   - Protocol Buffers
+  - SDKs
+  - Serialization
 url: >-
   https://raw.githubusercontent.com/api-evangelist/protobuf/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -27,9 +27,9 @@ apis:
       programming languages.
     humanURL: https://protobuf.dev/
     tags:
+      - Code Generation
       - SDKs
       - Serialization
-      - Code Generation
     properties:
       - type: Documentation
         url: https://protobuf.dev/overview/
