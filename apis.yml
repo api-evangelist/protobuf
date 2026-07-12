@@ -36,12 +36,16 @@ apis:
       - type: GettingStarted
         url: https://protobuf.dev/getting-started/
 common:
+  - type: DomainSecurity
+    url: security/protobuf-domain-security.yml
   - type: Website
     url: https://protobuf.dev/
   - type: Documentation
     url: https://protobuf.dev/overview/
   - type: GitHubOrganization
     url: https://github.com/protocolbuffers
+  - url: https://protobuf.dev/news/index.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
