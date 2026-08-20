@@ -22,6 +22,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/protobuf.p
 tags:
   - Code Generation
   - Protocol Buffers
+  - SDK
+  - Serialization
+tags_raw:
+  - Code Generation
+  - Protocol Buffers
   - SDKs
   - Serialization
 url: >-
@@ -39,6 +44,10 @@ apis:
       programming languages.
     humanURL: https://protobuf.dev/
     tags:
+      - Code Generation
+      - SDK
+      - Serialization
+    tags_raw:
       - Code Generation
       - SDKs
       - Serialization
